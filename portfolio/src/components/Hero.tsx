@@ -41,7 +41,7 @@ const Hero = () => {
               Full-Stack Developer crafting exceptional digital experiences with modern technologies
             </p>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-              I specialize in Angular, JavaScript, C++, Node.js, ExpressJS, MongoDB and React to build scalable web applications that solve real-world problems.
+              I specialize in Angular, JavaScript, Node.js, ExpressJS, MongoDB and React to build scalable web applications that solve real-world problems.
             </p>
           </div>
 

@@ -25,7 +25,7 @@ const Skills = () => {
     },
     {
       category: "Mobile & Others",
-      skills: ["React Native", "RESTful APIs", "Microservices", "Agile", "TDD"]
+      skills: ["React Native", "RESTful APIs"]
     }
   ];
 

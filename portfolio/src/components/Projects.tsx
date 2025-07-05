@@ -30,6 +30,14 @@ const Projects = () => {
       sourceCode: "https://github.com/rajarajan15/MusePlay"
     },
     {
+      title: "LinguaBuddy",
+      description: "A real-time French learning app that provides interactive voice feedback using speech recognition. Enhances pronunciation accuracy by 30% through Levenshtein-based scoring of spoken input.",
+      image: "/image7.png",
+      technologies: ["React.js", "Web Speech API", "Levenshtein Algorithm"],
+      sourceCode: "https://github.com/rajarajan15/LinguaBuddy"
+    }
+    ,
+    {
       title: "Factory-Flow (Intern Project)",
       description: "A low-code no-code platform for building factory flows and integrating with IoT devices. It allows users to create custom workflows and connect various devices without extensive coding knowledge.",
       image: "/image4.png",
@@ -49,13 +57,6 @@ const Projects = () => {
       image: "/image6.png",
       technologies: ["Angular", "Node.js", "ExpressJS", "MongoDB"],
       sourceCode: "https://github.com/rajarajan15/ExcelEditor"
-    },
-    {
-      title: "LinguaBuddy",
-      description: "A real-time French learning app that provides interactive voice feedback using speech recognition. Enhances pronunciation accuracy by 30% through Levenshtein-based scoring of spoken input.",
-      image: "/image7.png",
-      technologies: ["React.js", "Web Speech API", "Levenshtein Algorithm"],
-      sourceCode: "https://github.com/rajarajan15/LinguaBuddy"
     }
   ];
 

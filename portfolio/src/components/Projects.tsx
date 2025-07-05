@@ -42,6 +42,20 @@ const Projects = () => {
       image: "/image5.png",
       technologies: ["Angular", "JointJS", "Node.js", "ExpressJS", "MongoDB"],
       sourceCode: "https://github.com/rajarajan15/Label-Creation"
+    },
+    {
+      title: "Excel-Editor (Intern Project)",
+      description: "A powerful MEAN (MongoDB, Express, Angular, Node.js) stack application that enables Excel file uploads, data display in a table view, and fine-grained role-based access control for cell-level editing.",
+      image: "/image6.png",
+      technologies: ["Angular", "Node.js", "ExpressJS", "MongoDB"],
+      sourceCode: "https://github.com/rajarajan15/ExcelEditor"
+    },
+    {
+      title: "LinguaBuddy",
+      description: "A real-time French learning app that provides interactive voice feedback using speech recognition. Enhances pronunciation accuracy by 30% through Levenshtein-based scoring of spoken input.",
+      image: "/image7.png",
+      technologies: ["React.js", "Web Speech API", "Levenshtein Algorithm"],
+      sourceCode: "https://github.com/rajarajan15/LinguaBuddy"
     }
   ];
 
